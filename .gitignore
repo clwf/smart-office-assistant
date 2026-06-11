@@ -1,0 +1,12 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+.idea/
+.vscode/
+models/
+output/*.md
+chroma_db/
+
