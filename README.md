@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>智能办公助手</h1>
-  <h3>🤖 基于 LangGraph 的多功能办公助手</h3>
-  <p><em>知识库问答、数学计算、时间查询、文件读写、文本分析，一站式解决办公需求</em></p>
+  <h3>基于 LangGraph 的多功能办公助手</h3>
+  <p><em>集成知识库问答、数学计算、时间查询、文件读写和文本分析功能</em></p>
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/LangGraph-Agent-4CAF50?style=flat" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/DeepSeek-API-0066FF?style=flat" alt="DeepSeek"/>
